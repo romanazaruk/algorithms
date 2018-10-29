@@ -1,0 +1,14 @@
+visa foreign_passport
+visa bank_certificate
+migration_certificate passport
+migration_certificate id_code
+migration_certificate insurance
+visa migration_certificate
+foreign_passport passport
+passport birth_certificate
+id_code passport
+foreign_passport id_code
+bank_certificate id_code
+visa insurance
+insurance passport
+insurance id_code

@@ -1,0 +1,8 @@
+birth_certificate
+passport
+id_code
+foreign_passport
+bank_certificate
+insurance
+migration_certificate
+visa
